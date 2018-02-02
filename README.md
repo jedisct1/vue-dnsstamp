@@ -2,6 +2,8 @@
 
 > DNS stamp calculator
 
+## [Online demo](https://stamps.dnscrypt.info)
+
 ## Build Setup
 
 ``` bash
