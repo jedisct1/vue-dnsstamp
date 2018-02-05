@@ -30,7 +30,7 @@
           </label>
         </span>
         <span v-if="proto==='DoH'">
-          <label>Host name (vhost+SNI):
+          <label>Host name (vhost+SNI) and optional port number:
             <input v-model="hostName"/>
           </label>
           <label>Certificate hash (SHA256):
