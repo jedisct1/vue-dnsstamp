@@ -65,7 +65,7 @@ export default {
       providerName: "2.dnscrypt-cert.",
       hostName: "",
       hash: "",
-      path: "/.well-known/dns-query"
+      path: "/dns-query"
     };
   },
   methods: {
